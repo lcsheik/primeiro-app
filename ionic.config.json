@@ -1,0 +1,7 @@
+{
+  "name": "myAppTestSideMenu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
